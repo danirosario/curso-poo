@@ -1,0 +1,8 @@
+T:\Cursos Tecnicos\9900331538_TECINF_B2025_T03062026\Alunos\Daniela de Toledo Rosario\projetos-visual-studio\CursoPOO\Course\Matrizes\bin\Debug\Matrizes.exe.config
+T:\Cursos Tecnicos\9900331538_TECINF_B2025_T03062026\Alunos\Daniela de Toledo Rosario\projetos-visual-studio\CursoPOO\Course\Matrizes\bin\Debug\Matrizes.exe
+T:\Cursos Tecnicos\9900331538_TECINF_B2025_T03062026\Alunos\Daniela de Toledo Rosario\projetos-visual-studio\CursoPOO\Course\Matrizes\bin\Debug\Matrizes.pdb
+T:\Cursos Tecnicos\9900331538_TECINF_B2025_T03062026\Alunos\Daniela de Toledo Rosario\projetos-visual-studio\CursoPOO\Course\Matrizes\obj\Debug\Matrizes.csproj.AssemblyReference.cache
+T:\Cursos Tecnicos\9900331538_TECINF_B2025_T03062026\Alunos\Daniela de Toledo Rosario\projetos-visual-studio\CursoPOO\Course\Matrizes\obj\Debug\Matrizes.csproj.CoreCompileInputs.cache
+T:\Cursos Tecnicos\9900331538_TECINF_B2025_T03062026\Alunos\Daniela de Toledo Rosario\projetos-visual-studio\CursoPOO\Course\Matrizes\obj\Debug\Matrizes.exe
+T:\Cursos Tecnicos\9900331538_TECINF_B2025_T03062026\Alunos\Daniela de Toledo Rosario\projetos-visual-studio\CursoPOO\Course\Matrizes\obj\Debug\Matrizes.pdb
+T:\Cursos Tecnicos\9900331538_TECINF_B2025_T03062026\Alunos\Daniela de Toledo Rosario\projetos-visual-studio\CursoPOO\Course\Matrizes\obj\Debug\Matrizes.exe.config

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Cursos Tecnicos\\9900331538_TECINF_B2025_T03062026\\Alunos\\Daniela de Toledo Rosario\\projetos-visual-studio\\CursoPOO\\Course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{574B6FCF-4CAA-40D9-97DC-EAE6403FE45C}|Matrizes\\Matrizes.csproj|t:\\cursos tecnicos\\9900331538_tecinf_b2025_t03062026\\alunos\\daniela de toledo rosario\\projetos-visual-studio\\cursopoo\\course\\matrizes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574B6FCF-4CAA-40D9-97DC-EAE6403FE45C}|Matrizes\\Matrizes.csproj|solutionrelative:matrizes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6C5E03-B3B9-4B83-9892-9A90A4ABE01C}|Course\\Course.csproj|t:\\cursos tecnicos\\9900331538_tecinf_b2025_t03062026\\alunos\\daniela de toledo rosario\\projetos-visual-studio\\cursopoo\\course\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6C5E03-B3B9-4B83-9892-9A90A4ABE01C}|Course\\Course.csproj|solutionrelative:course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\Cursos Tecnicos\\9900331538_TECINF_B2025_T03062026\\Alunos\\Daniela de Toledo Rosario\\projetos-visual-studio\\CursoPOO\\Course\\Matrizes\\Program.cs",
+              "RelativeDocumentMoniker": "Matrizes\\Program.cs",
+              "ToolTip": "T:\\Cursos Tecnicos\\9900331538_TECINF_B2025_T03062026\\Alunos\\Daniela de Toledo Rosario\\projetos-visual-studio\\CursoPOO\\Course\\Matrizes\\Program.cs",
+              "RelativeToolTip": "Matrizes\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T12:30:14.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\Cursos Tecnicos\\9900331538_TECINF_B2025_T03062026\\Alunos\\Daniela de Toledo Rosario\\projetos-visual-studio\\CursoPOO\\Course\\Course\\Program.cs",
+              "RelativeDocumentMoniker": "Course\\Program.cs",
+              "ToolTip": "T:\\Cursos Tecnicos\\9900331538_TECINF_B2025_T03062026\\Alunos\\Daniela de Toledo Rosario\\projetos-visual-studio\\CursoPOO\\Course\\Course\\Program.cs",
+              "RelativeToolTip": "Course\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwDsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:34:20.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
