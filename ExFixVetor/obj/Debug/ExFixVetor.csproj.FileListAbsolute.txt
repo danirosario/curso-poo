@@ -1,0 +1,7 @@
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExFixVetor\bin\Debug\ExFixVetor.exe.config
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExFixVetor\bin\Debug\ExFixVetor.exe
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExFixVetor\bin\Debug\ExFixVetor.pdb
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExFixVetor\obj\Debug\ExFixVetor.csproj.AssemblyReference.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExFixVetor\obj\Debug\ExFixVetor.csproj.CoreCompileInputs.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExFixVetor\obj\Debug\ExFixVetor.exe
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExFixVetor\obj\Debug\ExFixVetor.pdb

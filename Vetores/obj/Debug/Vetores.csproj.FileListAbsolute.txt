@@ -1,0 +1,7 @@
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Vetores\bin\Debug\Vetores.exe.config
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Vetores\bin\Debug\Vetores.exe
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Vetores\bin\Debug\Vetores.pdb
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Vetores\obj\Debug\Vetores.csproj.AssemblyReference.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Vetores\obj\Debug\Vetores.exe
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Vetores\obj\Debug\Vetores.pdb

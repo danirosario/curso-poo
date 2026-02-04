@@ -1,0 +1,14 @@
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao2\bin\Debug\net10.0\ExercicioFixacao2.exe
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao2\bin\Debug\net10.0\ExercicioFixacao2.deps.json
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao2\bin\Debug\net10.0\ExercicioFixacao2.runtimeconfig.json
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao2\bin\Debug\net10.0\ExercicioFixacao2.dll
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao2\bin\Debug\net10.0\ExercicioFixacao2.pdb
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao2\obj\Debug\net10.0\ExercicioFixacao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao2\obj\Debug\net10.0\ExercicioFixacao2.AssemblyInfoInputs.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao2\obj\Debug\net10.0\ExercicioFixacao2.AssemblyInfo.cs
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao2\obj\Debug\net10.0\ExercicioFixacao2.csproj.CoreCompileInputs.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao2\obj\Debug\net10.0\ExercicioFixacao2.dll
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao2\obj\Debug\net10.0\refint\ExercicioFixacao2.dll
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao2\obj\Debug\net10.0\ExercicioFixacao2.pdb
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao2\obj\Debug\net10.0\ExercicioFixacao2.genruntimeconfig.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao2\obj\Debug\net10.0\ref\ExercicioFixacao2.dll

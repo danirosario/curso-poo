@@ -1,0 +1,14 @@
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioMembrosEstaticos\bin\Debug\net10.0\ExercicioMembrosEstaticos.exe
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioMembrosEstaticos\bin\Debug\net10.0\ExercicioMembrosEstaticos.deps.json
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioMembrosEstaticos\bin\Debug\net10.0\ExercicioMembrosEstaticos.runtimeconfig.json
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioMembrosEstaticos\bin\Debug\net10.0\ExercicioMembrosEstaticos.dll
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioMembrosEstaticos\bin\Debug\net10.0\ExercicioMembrosEstaticos.pdb
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioMembrosEstaticos\obj\Debug\net10.0\ExercicioMembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioMembrosEstaticos\obj\Debug\net10.0\ExercicioMembrosEstaticos.AssemblyInfoInputs.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioMembrosEstaticos\obj\Debug\net10.0\ExercicioMembrosEstaticos.AssemblyInfo.cs
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioMembrosEstaticos\obj\Debug\net10.0\ExercicioMembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioMembrosEstaticos\obj\Debug\net10.0\ExercicioMembrosEstaticos.dll
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioMembrosEstaticos\obj\Debug\net10.0\refint\ExercicioMembrosEstaticos.dll
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioMembrosEstaticos\obj\Debug\net10.0\ExercicioMembrosEstaticos.pdb
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioMembrosEstaticos\obj\Debug\net10.0\ExercicioMembrosEstaticos.genruntimeconfig.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioMembrosEstaticos\obj\Debug\net10.0\ref\ExercicioMembrosEstaticos.dll

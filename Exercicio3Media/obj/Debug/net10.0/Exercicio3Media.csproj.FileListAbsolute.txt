@@ -1,0 +1,14 @@
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Exercicio3Media\bin\Debug\net10.0\Exercicio3Media.exe
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Exercicio3Media\bin\Debug\net10.0\Exercicio3Media.deps.json
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Exercicio3Media\bin\Debug\net10.0\Exercicio3Media.runtimeconfig.json
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Exercicio3Media\bin\Debug\net10.0\Exercicio3Media.dll
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Exercicio3Media\bin\Debug\net10.0\Exercicio3Media.pdb
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Exercicio3Media\obj\Debug\net10.0\Exercicio3Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Exercicio3Media\obj\Debug\net10.0\Exercicio3Media.AssemblyInfoInputs.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Exercicio3Media\obj\Debug\net10.0\Exercicio3Media.AssemblyInfo.cs
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Exercicio3Media\obj\Debug\net10.0\Exercicio3Media.csproj.CoreCompileInputs.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Exercicio3Media\obj\Debug\net10.0\Exercicio3Media.dll
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Exercicio3Media\obj\Debug\net10.0\refint\Exercicio3Media.dll
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Exercicio3Media\obj\Debug\net10.0\Exercicio3Media.pdb
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Exercicio3Media\obj\Debug\net10.0\Exercicio3Media.genruntimeconfig.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Exercicio3Media\obj\Debug\net10.0\ref\Exercicio3Media.dll

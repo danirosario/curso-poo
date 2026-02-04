@@ -1,0 +1,14 @@
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao1\obj\Debug\net10.0\ExercicioFixacao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao1\obj\Debug\net10.0\ExercicioFixacao1.AssemblyInfoInputs.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao1\obj\Debug\net10.0\ExercicioFixacao1.AssemblyInfo.cs
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao1\obj\Debug\net10.0\ExercicioFixacao1.csproj.CoreCompileInputs.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao1\bin\Debug\net10.0\ExercicioFixacao1.exe
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao1\bin\Debug\net10.0\ExercicioFixacao1.deps.json
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao1\bin\Debug\net10.0\ExercicioFixacao1.runtimeconfig.json
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao1\bin\Debug\net10.0\ExercicioFixacao1.dll
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao1\bin\Debug\net10.0\ExercicioFixacao1.pdb
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao1\obj\Debug\net10.0\ExercicioFixacao1.dll
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao1\obj\Debug\net10.0\refint\ExercicioFixacao1.dll
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao1\obj\Debug\net10.0\ExercicioFixacao1.pdb
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao1\obj\Debug\net10.0\ExercicioFixacao1.genruntimeconfig.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\ExercicioFixacao1\obj\Debug\net10.0\ref\ExercicioFixacao1.dll

@@ -1,0 +1,14 @@
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Aula06\bin\Debug\net10.0\Aula06.exe
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Aula06\bin\Debug\net10.0\Aula06.deps.json
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Aula06\bin\Debug\net10.0\Aula06.runtimeconfig.json
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Aula06\bin\Debug\net10.0\Aula06.dll
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Aula06\bin\Debug\net10.0\Aula06.pdb
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Aula06\obj\Debug\net10.0\Aula06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Aula06\obj\Debug\net10.0\Aula06.AssemblyInfoInputs.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Aula06\obj\Debug\net10.0\Aula06.AssemblyInfo.cs
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Aula06\obj\Debug\net10.0\Aula06.csproj.CoreCompileInputs.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Aula06\obj\Debug\net10.0\Aula06.dll
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Aula06\obj\Debug\net10.0\refint\Aula06.dll
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Aula06\obj\Debug\net10.0\Aula06.pdb
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Aula06\obj\Debug\net10.0\Aula06.genruntimeconfig.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Aula06\obj\Debug\net10.0\ref\Aula06.dll
