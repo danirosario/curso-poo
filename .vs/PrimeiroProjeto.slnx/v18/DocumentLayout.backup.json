@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A8A7427-0BDA-4609-A6C9-6C68D68E10B4}|Vetores\\Vetores.csproj|c:\\projetos\\projetos-curso-csharp\\primeiroprojeto\\vetores\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A8A7427-0BDA-4609-A6C9-6C68D68E10B4}|Vetores\\Vetores.csproj|solutionrelative:vetores\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77E578EC-D52E-4788-96B6-1C2784F93CBC}|Enumeracao\\Enumeracao.csproj|c:\\projetos\\projetos-curso-csharp\\primeiroprojeto\\enumeracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E578EC-D52E-4788-96B6-1C2784F93CBC}|Enumeracao\\Enumeracao.csproj|solutionrelative:enumeracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A8A7427-0BDA-4609-A6C9-6C68D68E10B4}|Vetores\\Vetores.csproj|c:\\projetos\\projetos-curso-csharp\\primeiroprojeto\\vetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A8A7427-0BDA-4609-A6C9-6C68D68E10B4}|Vetores\\Vetores.csproj|solutionrelative:vetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77E578EC-D52E-4788-96B6-1C2784F93CBC}|Enumeracao\\Enumeracao.csproj|c:\\projetos\\projetos-curso-csharp\\primeiroprojeto\\enumeracao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E578EC-D52E-4788-96B6-1C2784F93CBC}|Enumeracao\\Enumeracao.csproj|solutionrelative:enumeracao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E578EC-D52E-4788-96B6-1C2784F93CBC}|Enumeracao\\Enumeracao.csproj|c:\\projetos\\projetos-curso-csharp\\primeiroprojeto\\enumeracao\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E578EC-D52E-4788-96B6-1C2784F93CBC}|Enumeracao\\Enumeracao.csproj|solutionrelative:enumeracao\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Vetores\\Calculator.cs",
-              "RelativeDocumentMoniker": "Vetores\\Calculator.cs",
-              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Vetores\\Calculator.cs",
-              "RelativeToolTip": "Vetores\\Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABCAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Enumeracao\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Enumeracao\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Enumeracao\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Enumeracao\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T13:46:26.678Z",
+              "WhenOpened": "2026-02-09T23:48:24.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Vetores\\Program.cs",
-              "RelativeDocumentMoniker": "Vetores\\Program.cs",
-              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Vetores\\Program.cs",
-              "RelativeToolTip": "Vetores\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Enumeracao\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Enumeracao\\Entities\\Order.cs",
+              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Enumeracao\\Entities\\Order.cs",
+              "RelativeToolTip": "Enumeracao\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T13:37:26.858Z",
+              "WhenOpened": "2026-02-09T23:46:16.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Enumeracao\\Program.cs",
+              "RelativeDocumentMoniker": "Enumeracao\\Program.cs",
+              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Enumeracao\\Program.cs",
+              "RelativeToolTip": "Enumeracao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:39:47.45Z",
               "EditorCaption": ""
             }
           ]
