@@ -1,0 +1,7 @@
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Composicao\bin\Debug\Composicao.exe.config
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Composicao\bin\Debug\Composicao.exe
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Composicao\bin\Debug\Composicao.pdb
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Composicao\obj\Debug\Composicao.csproj.AssemblyReference.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Composicao\obj\Debug\Composicao.csproj.CoreCompileInputs.cache
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Composicao\obj\Debug\Composicao.exe
+C:\Projetos\projetos-curso-csharp\PrimeiroProjeto\Composicao\obj\Debug\Composicao.pdb

@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77E578EC-D52E-4788-96B6-1C2784F93CBC}|Enumeracao\\Enumeracao.csproj|c:\\projetos\\projetos-curso-csharp\\primeiroprojeto\\enumeracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77E578EC-D52E-4788-96B6-1C2784F93CBC}|Enumeracao\\Enumeracao.csproj|solutionrelative:enumeracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8BE6DD0-9E73-4C06-98A4-8C67C057BCEE}|Composicao\\Composicao.csproj|c:\\projetos\\projetos-curso-csharp\\primeiroprojeto\\composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BE6DD0-9E73-4C06-98A4-8C67C057BCEE}|Composicao\\Composicao.csproj|solutionrelative:composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77E578EC-D52E-4788-96B6-1C2784F93CBC}|Enumeracao\\Enumeracao.csproj|c:\\projetos\\projetos-curso-csharp\\primeiroprojeto\\enumeracao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8BE6DD0-9E73-4C06-98A4-8C67C057BCEE}|Composicao\\Composicao.csproj|C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\composicao\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BE6DD0-9E73-4C06-98A4-8C67C057BCEE}|Composicao\\Composicao.csproj|solutionrelative:composicao\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BE6DD0-9E73-4C06-98A4-8C67C057BCEE}|Composicao\\Composicao.csproj|c:\\projetos\\projetos-curso-csharp\\primeiroprojeto\\composicao\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BE6DD0-9E73-4C06-98A4-8C67C057BCEE}|Composicao\\Composicao.csproj|solutionrelative:composicao\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BE6DD0-9E73-4C06-98A4-8C67C057BCEE}|Composicao\\Composicao.csproj|C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\composicao\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BE6DD0-9E73-4C06-98A4-8C67C057BCEE}|Composicao\\Composicao.csproj|solutionrelative:composicao\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E578EC-D52E-4788-96B6-1C2784F93CBC}|Enumeracao\\Enumeracao.csproj|C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\enumeracao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77E578EC-D52E-4788-96B6-1C2784F93CBC}|Enumeracao\\Enumeracao.csproj|solutionrelative:enumeracao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77E578EC-D52E-4788-96B6-1C2784F93CBC}|Enumeracao\\Enumeracao.csproj|c:\\projetos\\projetos-curso-csharp\\primeiroprojeto\\enumeracao\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77E578EC-D52E-4788-96B6-1C2784F93CBC}|Enumeracao\\Enumeracao.csproj|solutionrelative:enumeracao\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8BE6DD0-9E73-4C06-98A4-8C67C057BCEE}|Composicao\\Composicao.csproj|C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\composicao\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BE6DD0-9E73-4C06-98A4-8C67C057BCEE}|Composicao\\Composicao.csproj|solutionrelative:composicao\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderStatus.cs",
-              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Enumeracao\\Entities\\Enums\\OrderStatus.cs",
-              "RelativeDocumentMoniker": "Enumeracao\\Entities\\Enums\\OrderStatus.cs",
-              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Enumeracao\\Entities\\Enums\\OrderStatus.cs",
-              "RelativeToolTip": "Enumeracao\\Entities\\Enums\\OrderStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Composicao\\Program.cs",
+              "RelativeDocumentMoniker": "Composicao\\Program.cs",
+              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Composicao\\Program.cs",
+              "RelativeToolTip": "Composicao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T23:48:24.376Z",
+              "WhenOpened": "2026-02-10T23:55:45.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "WorkerLevel.cs",
+              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Composicao\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeDocumentMoniker": "Composicao\\Entities\\Enums\\WorkerLevel.cs",
+              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Composicao\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeToolTip": "Composicao\\Entities\\Enums\\WorkerLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T00:28:17.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Composicao\\Entities\\Worker.cs",
+              "RelativeDocumentMoniker": "Composicao\\Entities\\Worker.cs",
+              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Composicao\\Entities\\Worker.cs",
+              "RelativeToolTip": "Composicao\\Entities\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T00:26:41.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HourContract.cs",
+              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Composicao\\Entities\\HourContract.cs",
+              "RelativeDocumentMoniker": "Composicao\\Entities\\HourContract.cs",
+              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Composicao\\Entities\\HourContract.cs",
+              "RelativeToolTip": "Composicao\\Entities\\HourContract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T00:24:13.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Enumeracao\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Enumeracao\\Entities\\Order.cs",
               "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Enumeracao\\Entities\\Order.cs",
               "RelativeToolTip": "Enumeracao\\Entities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T23:46:16.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Enumeracao\\Program.cs",
-              "RelativeDocumentMoniker": "Enumeracao\\Program.cs",
-              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Enumeracao\\Program.cs",
-              "RelativeToolTip": "Enumeracao\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Composicao\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Composicao\\Entities\\Department.cs",
+              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Composicao\\Entities\\Department.cs",
+              "RelativeToolTip": "Composicao\\Entities\\Department.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T23:39:47.45Z",
+              "WhenOpened": "2026-02-10T00:21:52.849Z",
               "EditorCaption": ""
             }
           ]
