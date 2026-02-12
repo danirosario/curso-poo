@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8BE6DD0-9E73-4C06-98A4-8C67C057BCEE}|Composicao\\Composicao.csproj|c:\\projetos\\projetos-curso-csharp\\primeiroprojeto\\composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8BE6DD0-9E73-4C06-98A4-8C67C057BCEE}|Composicao\\Composicao.csproj|solutionrelative:composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50B27C1B-6833-4B0F-B538-E9AEED037949}|Ex2Composicao\\Ex2Composicao.csproj|c:\\projetos\\projetos-curso-csharp\\primeiroprojeto\\ex2composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B27C1B-6833-4B0F-B538-E9AEED037949}|Ex2Composicao\\Ex2Composicao.csproj|solutionrelative:ex2composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BE6DD0-9E73-4C06-98A4-8C67C057BCEE}|Composicao\\Composicao.csproj|C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\composicao\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8BE6DD0-9E73-4C06-98A4-8C67C057BCEE}|Composicao\\Composicao.csproj|solutionrelative:composicao\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50B27C1B-6833-4B0F-B538-E9AEED037949}|Ex2Composicao\\Ex2Composicao.csproj|c:\\projetos\\projetos-curso-csharp\\primeiroprojeto\\ex2composicao\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B27C1B-6833-4B0F-B538-E9AEED037949}|Ex2Composicao\\Ex2Composicao.csproj|solutionrelative:ex2composicao\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BE6DD0-9E73-4C06-98A4-8C67C057BCEE}|Composicao\\Composicao.csproj|C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\composicao\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8BE6DD0-9E73-4C06-98A4-8C67C057BCEE}|Composicao\\Composicao.csproj|solutionrelative:composicao\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8BE6DD0-9E73-4C06-98A4-8C67C057BCEE}|Composicao\\Composicao.csproj|C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\composicao\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8BE6DD0-9E73-4C06-98A4-8C67C057BCEE}|Composicao\\Composicao.csproj|solutionrelative:composicao\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77E578EC-D52E-4788-96B6-1C2784F93CBC}|Enumeracao\\Enumeracao.csproj|C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\enumeracao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77E578EC-D52E-4788-96B6-1C2784F93CBC}|Enumeracao\\Enumeracao.csproj|solutionrelative:enumeracao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8BE6DD0-9E73-4C06-98A4-8C67C057BCEE}|Composicao\\Composicao.csproj|C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\composicao\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8BE6DD0-9E73-4C06-98A4-8C67C057BCEE}|Composicao\\Composicao.csproj|solutionrelative:composicao\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50B27C1B-6833-4B0F-B538-E9AEED037949}|Ex2Composicao\\Ex2Composicao.csproj|c:\\projetos\\projetos-curso-csharp\\primeiroprojeto\\ex2composicao\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B27C1B-6833-4B0F-B538-E9AEED037949}|Ex2Composicao\\Ex2Composicao.csproj|solutionrelative:ex2composicao\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,74 +28,40 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Composicao\\Program.cs",
-              "RelativeDocumentMoniker": "Composicao\\Program.cs",
-              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Composicao\\Program.cs",
-              "RelativeToolTip": "Composicao\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCIAAAA0AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Ex2Composicao\\Program.cs",
+              "RelativeDocumentMoniker": "Ex2Composicao\\Program.cs",
+              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Ex2Composicao\\Program.cs",
+              "RelativeToolTip": "Ex2Composicao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T23:55:45.035Z",
+              "WhenOpened": "2026-02-12T00:11:29.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Ex2Composicao\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "Ex2Composicao\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Ex2Composicao\\Entities\\Comment.cs",
+              "RelativeToolTip": "Ex2Composicao\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:09:07.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WorkerLevel.cs",
-              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Composicao\\Entities\\Enums\\WorkerLevel.cs",
-              "RelativeDocumentMoniker": "Composicao\\Entities\\Enums\\WorkerLevel.cs",
-              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Composicao\\Entities\\Enums\\WorkerLevel.cs",
-              "RelativeToolTip": "Composicao\\Entities\\Enums\\WorkerLevel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Ex2Composicao\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "Ex2Composicao\\Entities\\Post.cs",
+              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Ex2Composicao\\Entities\\Post.cs",
+              "RelativeToolTip": "Ex2Composicao\\Entities\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T00:28:17.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Worker.cs",
-              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Composicao\\Entities\\Worker.cs",
-              "RelativeDocumentMoniker": "Composicao\\Entities\\Worker.cs",
-              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Composicao\\Entities\\Worker.cs",
-              "RelativeToolTip": "Composicao\\Entities\\Worker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T00:26:41.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HourContract.cs",
-              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Composicao\\Entities\\HourContract.cs",
-              "RelativeDocumentMoniker": "Composicao\\Entities\\HourContract.cs",
-              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Composicao\\Entities\\HourContract.cs",
-              "RelativeToolTip": "Composicao\\Entities\\HourContract.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T00:24:13.652Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Enumeracao\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "Enumeracao\\Entities\\Order.cs",
-              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Enumeracao\\Entities\\Order.cs",
-              "RelativeToolTip": "Enumeracao\\Entities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T23:46:16.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Composicao\\Entities\\Department.cs",
-              "RelativeDocumentMoniker": "Composicao\\Entities\\Department.cs",
-              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Composicao\\Entities\\Department.cs",
-              "RelativeToolTip": "Composicao\\Entities\\Department.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T00:21:52.849Z"
+              "WhenOpened": "2026-02-11T23:11:08.508Z",
+              "EditorCaption": ""
             }
           ]
         }

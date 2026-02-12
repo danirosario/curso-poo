@@ -3,6 +3,7 @@
   <Project Path="Composicao/Composicao.csproj" Id="b8be6dd0-9e73-4c06-98a4-8c67c057bcee" />
   <Project Path="ContaBancaria/ContaBancaria.csproj" Id="1e82e665-e7c1-4cf8-a297-21df47ccac60" />
   <Project Path="Enumeracao/Enumeracao.csproj" Id="77e578ec-d52e-4788-96b6-1c2784f93cbc" />
+  <Project Path="Ex2Composicao/Ex2Composicao.csproj" Id="50b27c1b-6833-4b0f-b538-e9aeed037949" />
   <Project Path="Exercicio3Media/ExercicioFixacao3.csproj" Id="67746d58-9a5a-41dc-b24f-4e49ff34b737" />
   <Project Path="ExercicioFixacao1/ExercicioFixacao1.csproj" Id="218e1899-2265-4185-b73f-213a9ace7765" />
   <Project Path="ExercicioFixacao2/ExercicioFixacao2.csproj" Id="306f0238-ab68-4027-80c0-5f9741610bf1" />
