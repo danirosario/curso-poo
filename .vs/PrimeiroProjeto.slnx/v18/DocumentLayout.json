@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50B27C1B-6833-4B0F-B538-E9AEED037949}|Ex2Composicao\\Ex2Composicao.csproj|c:\\projetos\\projetos-curso-csharp\\primeiroprojeto\\ex2composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50B27C1B-6833-4B0F-B538-E9AEED037949}|Ex2Composicao\\Ex2Composicao.csproj|solutionrelative:ex2composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\heranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|solutionrelative:heranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50B27C1B-6833-4B0F-B538-E9AEED037949}|Ex2Composicao\\Ex2Composicao.csproj|c:\\projetos\\projetos-curso-csharp\\primeiroprojeto\\ex2composicao\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50B27C1B-6833-4B0F-B538-E9AEED037949}|Ex2Composicao\\Ex2Composicao.csproj|solutionrelative:ex2composicao\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\heranca\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|solutionrelative:heranca\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50B27C1B-6833-4B0F-B538-E9AEED037949}|Ex2Composicao\\Ex2Composicao.csproj|c:\\projetos\\projetos-curso-csharp\\primeiroprojeto\\ex2composicao\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50B27C1B-6833-4B0F-B538-E9AEED037949}|Ex2Composicao\\Ex2Composicao.csproj|solutionrelative:ex2composicao\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|c:\\projetos\\projetos-curso-csharp\\primeiroprojeto\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\heranca\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|solutionrelative:heranca\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Ex2Composicao\\Program.cs",
-              "RelativeDocumentMoniker": "Ex2Composicao\\Program.cs",
-              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Ex2Composicao\\Program.cs",
-              "RelativeToolTip": "Ex2Composicao\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Heranca\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Heranca\\Entities\\SavingsAccount.cs",
+              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Heranca\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "Heranca\\Entities\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAACLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T00:11:29.539Z",
+              "WhenOpened": "2026-02-17T13:52:55.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Heranca\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "Heranca\\Entities\\BusinessAccount.cs",
+              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Heranca\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "Heranca\\Entities\\BusinessAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T13:27:48.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Heranca\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Heranca\\Entities\\Account.cs",
+              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Heranca\\Entities\\Account.cs",
+              "RelativeToolTip": "Heranca\\Entities\\Account.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T13:24:46.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Ex2Composicao\\Entities\\Comment.cs",
-              "RelativeDocumentMoniker": "Ex2Composicao\\Entities\\Comment.cs",
-              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Ex2Composicao\\Entities\\Comment.cs",
-              "RelativeToolTip": "Ex2Composicao\\Entities\\Comment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Heranca\\Program.cs",
+              "RelativeDocumentMoniker": "Heranca\\Program.cs",
+              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Heranca\\Program.cs",
+              "RelativeToolTip": "Heranca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T23:09:07.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Post.cs",
-              "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Ex2Composicao\\Entities\\Post.cs",
-              "RelativeDocumentMoniker": "Ex2Composicao\\Entities\\Post.cs",
-              "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Ex2Composicao\\Entities\\Post.cs",
-              "RelativeToolTip": "Ex2Composicao\\Entities\\Post.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T23:11:08.508Z",
+              "WhenOpened": "2026-02-17T13:20:25.201Z",
               "EditorCaption": ""
             }
           ]
