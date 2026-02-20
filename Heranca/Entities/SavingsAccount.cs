@@ -1,6 +1,6 @@
 ﻿namespace Heranca.Entities
 {
-    internal class SavingsAccount : Account
+    sealed class SavingsAccount : Account // sealed impede que outras classes herdem desta classe, ou seja, SavingsAccount não pode ser herdada por nenhuma outra classe
     {
         public double InterestRate { get; set; }
 
@@ -16,7 +16,7 @@
             Balance += Balance * InterestRate;
         }
 
-        public override void Withdraw(double amount) // override permite que a classe derivada sobrescreva este método, substituindo a implementação da classe base
+        public sealed override void Withdraw(double amount) // override permite que a classe derivada sobrescreva este método, substituindo a implementação da classe base
         {
            // Balance -= amount;
             base.Withdraw(amount); // base permite acessar a implementação da classe base, mesmo que ela tenha sido sobrescrita pela classe derivada
@@ -24,3 +24,10 @@
         }
     }
 }
+
+// SELED: O modificador sealed é usado para impedir que uma classe seja herdada ou que um método seja sobrescrito.
+// metodo Withdraw da classe SavingsAccount é marcado como sealed,
+// o que significa que ele não pode ser sobrescrito por nenhuma classe que herde de SavingsAccount.
+// Isso garante que a implementação do método Withdraw em SavingsAccount
+// seja a única implementação possível para essa classe e suas subclasses.
+// A classe SavingsAccount é marcada como sealed, o que significa que ela não pode ser herdada por nenhuma outra classe.

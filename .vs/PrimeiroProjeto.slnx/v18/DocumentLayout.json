@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\heranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|solutionrelative:heranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\heranca\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|solutionrelative:heranca\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|c:\\projetos\\projetos-curso-csharp\\primeiroprojeto\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|c:\\projetos\\projetos-curso-csharp\\primeiroprojeto\\heranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|solutionrelative:heranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SavingsAccount.cs",
               "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Heranca\\Entities\\SavingsAccount.cs",
               "RelativeDocumentMoniker": "Heranca\\Entities\\SavingsAccount.cs",
               "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Heranca\\Entities\\SavingsAccount.cs",
               "RelativeToolTip": "Heranca\\Entities\\SavingsAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAACLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T13:52:55.358Z",
               "EditorCaption": ""
@@ -55,13 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Heranca\\Entities\\Account.cs",
               "RelativeDocumentMoniker": "Heranca\\Entities\\Account.cs",
               "ToolTip": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Heranca\\Entities\\Account.cs",
               "RelativeToolTip": "Heranca\\Entities\\Account.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T13:24:46.514Z",
               "EditorCaption": ""
@@ -76,8 +76,7 @@
               "RelativeToolTip": "Heranca\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T13:20:25.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T13:20:25.201Z"
             }
           ]
         }
