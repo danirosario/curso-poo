@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\PrimeiroProjeto\\Course.csproj": {}
+    "C:\\Users\\rosar\\source\\repos\\curso-poo\\PrimeiroProjeto\\Course.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\PrimeiroProjeto\\Course.csproj": {
+    "C:\\Users\\rosar\\source\\repos\\curso-poo\\PrimeiroProjeto\\Course.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\PrimeiroProjeto\\Course.csproj",
+        "projectUniqueName": "C:\\Users\\rosar\\source\\repos\\curso-poo\\PrimeiroProjeto\\Course.csproj",
         "projectName": "Course",
-        "projectPath": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\PrimeiroProjeto\\Course.csproj",
+        "projectPath": "C:\\Users\\rosar\\source\\repos\\curso-poo\\PrimeiroProjeto\\Course.csproj",
         "packagesPath": "C:\\Users\\rosar\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\PrimeiroProjeto\\obj\\",
+        "outputPath": "C:\\Users\\rosar\\source\\repos\\curso-poo\\PrimeiroProjeto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

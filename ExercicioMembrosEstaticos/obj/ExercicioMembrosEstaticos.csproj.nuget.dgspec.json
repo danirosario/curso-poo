@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\ExercicioMembrosEstaticos\\ExercicioMembrosEstaticos.csproj": {}
+    "C:\\Users\\rosar\\source\\repos\\curso-poo\\ExercicioMembrosEstaticos\\ExercicioMembrosEstaticos.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\ExercicioMembrosEstaticos\\ExercicioMembrosEstaticos.csproj": {
+    "C:\\Users\\rosar\\source\\repos\\curso-poo\\ExercicioMembrosEstaticos\\ExercicioMembrosEstaticos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\ExercicioMembrosEstaticos\\ExercicioMembrosEstaticos.csproj",
+        "projectUniqueName": "C:\\Users\\rosar\\source\\repos\\curso-poo\\ExercicioMembrosEstaticos\\ExercicioMembrosEstaticos.csproj",
         "projectName": "ExercicioMembrosEstaticos",
-        "projectPath": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\ExercicioMembrosEstaticos\\ExercicioMembrosEstaticos.csproj",
+        "projectPath": "C:\\Users\\rosar\\source\\repos\\curso-poo\\ExercicioMembrosEstaticos\\ExercicioMembrosEstaticos.csproj",
         "packagesPath": "C:\\Users\\rosar\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\ExercicioMembrosEstaticos\\obj\\",
+        "outputPath": "C:\\Users\\rosar\\source\\repos\\curso-poo\\ExercicioMembrosEstaticos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

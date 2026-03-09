@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Aula06\\Aula06.csproj": {}
+    "C:\\Users\\rosar\\source\\repos\\curso-poo\\Aula06\\Aula06.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Aula06\\Aula06.csproj": {
+    "C:\\Users\\rosar\\source\\repos\\curso-poo\\Aula06\\Aula06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Aula06\\Aula06.csproj",
+        "projectUniqueName": "C:\\Users\\rosar\\source\\repos\\curso-poo\\Aula06\\Aula06.csproj",
         "projectName": "Aula06",
-        "projectPath": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Aula06\\Aula06.csproj",
+        "projectPath": "C:\\Users\\rosar\\source\\repos\\curso-poo\\Aula06\\Aula06.csproj",
         "packagesPath": "C:\\Users\\rosar\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\projetos-curso-csharp\\PrimeiroProjeto\\Aula06\\obj\\",
+        "outputPath": "C:\\Users\\rosar\\source\\repos\\curso-poo\\Aula06\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
