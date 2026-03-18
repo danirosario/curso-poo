@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rosar\\source\\repos\\curso-poo\\ExercicioFixacao2\\ExercicioFixacao2.csproj",
+      "projectUniqueName": "C:\\Projetos\\C#\\curso-poo\\ExercicioFixacao2\\ExercicioFixacao2.csproj",
       "projectName": "ExercicioFixacao2",
-      "projectPath": "C:\\Users\\rosar\\source\\repos\\curso-poo\\ExercicioFixacao2\\ExercicioFixacao2.csproj",
+      "projectPath": "C:\\Projetos\\C#\\curso-poo\\ExercicioFixacao2\\ExercicioFixacao2.csproj",
       "packagesPath": "C:\\Users\\rosar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rosar\\source\\repos\\curso-poo\\ExercicioFixacao2\\obj\\",
+      "outputPath": "C:\\Projetos\\C#\\curso-poo\\ExercicioFixacao2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.104/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

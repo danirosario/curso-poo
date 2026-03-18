@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rosar\\source\\repos\\curso-poo\\",
+  "WorkspaceRootPath": "C:\\Projetos\\C#\\curso-poo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|C:\\Users\\rosar\\source\\repos\\curso-poo\\heranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|solutionrelative:heranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|C:\\Users\\rosar\\source\\repos\\curso-poo\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|C:\\Users\\rosar\\source\\repos\\curso-poo\\heranca\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|solutionrelative:heranca\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|c:\\users\\rosar\\source\\repos\\curso-poo\\heranca\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{987B634C-EC01-4BF2-BF9F-E5438E2BEC49}|Heranca\\Heranca.csproj|solutionrelative:heranca\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AA15120-D02C-4A4F-845D-411DE9AC1A2D}|ExTratamentoExcecoes\\ExTratamentoExcecoes.csproj|c:\\projetos\\c#\\curso-poo\\extratamentoexcecoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA15120-D02C-4A4F-845D-411DE9AC1A2D}|ExTratamentoExcecoes\\ExTratamentoExcecoes.csproj|solutionrelative:extratamentoexcecoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\rosar\\source\\repos\\curso-poo\\Heranca\\Entities\\Account.cs",
-              "RelativeDocumentMoniker": "Heranca\\Entities\\Account.cs",
-              "ToolTip": "C:\\Users\\rosar\\source\\repos\\curso-poo\\Heranca\\Entities\\Account.cs",
-              "RelativeToolTip": "Heranca\\Entities\\Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T13:24:46.514Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SavingsAccount.cs",
-              "DocumentMoniker": "C:\\Users\\rosar\\source\\repos\\curso-poo\\Heranca\\Entities\\SavingsAccount.cs",
-              "RelativeDocumentMoniker": "Heranca\\Entities\\SavingsAccount.cs",
-              "ToolTip": "C:\\Users\\rosar\\source\\repos\\curso-poo\\Heranca\\Entities\\SavingsAccount.cs",
-              "RelativeToolTip": "Heranca\\Entities\\SavingsAccount.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T13:52:55.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BusinessAccount.cs",
-              "DocumentMoniker": "C:\\Users\\rosar\\source\\repos\\curso-poo\\Heranca\\Entities\\BusinessAccount.cs",
-              "RelativeDocumentMoniker": "Heranca\\Entities\\BusinessAccount.cs",
-              "ToolTip": "C:\\Users\\rosar\\source\\repos\\curso-poo\\Heranca\\Entities\\BusinessAccount.cs",
-              "RelativeToolTip": "Heranca\\Entities\\BusinessAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T13:27:48.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rosar\\source\\repos\\curso-poo\\Heranca\\Program.cs",
-              "RelativeDocumentMoniker": "Heranca\\Program.cs",
-              "ToolTip": "C:\\Users\\rosar\\source\\repos\\curso-poo\\Heranca\\Program.cs",
-              "RelativeToolTip": "Heranca\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA/AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Projetos\\C#\\curso-poo\\ExTratamentoExcecoes\\Program.cs",
+              "RelativeDocumentMoniker": "ExTratamentoExcecoes\\Program.cs",
+              "ToolTip": "C:\\Projetos\\C#\\curso-poo\\ExTratamentoExcecoes\\Program.cs",
+              "RelativeToolTip": "ExTratamentoExcecoes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T13:20:25.201Z",
+              "WhenOpened": "2026-03-18T18:40:07.722Z",
               "EditorCaption": ""
             }
           ]

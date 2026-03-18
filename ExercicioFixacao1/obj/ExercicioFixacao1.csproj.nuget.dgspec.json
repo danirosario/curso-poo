@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rosar\\source\\repos\\curso-poo\\ExercicioFixacao1\\ExercicioFixacao1.csproj": {}
+    "C:\\Projetos\\C#\\curso-poo\\ExercicioFixacao1\\ExercicioFixacao1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rosar\\source\\repos\\curso-poo\\ExercicioFixacao1\\ExercicioFixacao1.csproj": {
+    "C:\\Projetos\\C#\\curso-poo\\ExercicioFixacao1\\ExercicioFixacao1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rosar\\source\\repos\\curso-poo\\ExercicioFixacao1\\ExercicioFixacao1.csproj",
+        "projectUniqueName": "C:\\Projetos\\C#\\curso-poo\\ExercicioFixacao1\\ExercicioFixacao1.csproj",
         "projectName": "ExercicioFixacao1",
-        "projectPath": "C:\\Users\\rosar\\source\\repos\\curso-poo\\ExercicioFixacao1\\ExercicioFixacao1.csproj",
+        "projectPath": "C:\\Projetos\\C#\\curso-poo\\ExercicioFixacao1\\ExercicioFixacao1.csproj",
         "packagesPath": "C:\\Users\\rosar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rosar\\source\\repos\\curso-poo\\ExercicioFixacao1\\obj\\",
+        "outputPath": "C:\\Projetos\\C#\\curso-poo\\ExercicioFixacao1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.104/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
