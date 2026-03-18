@@ -1,17 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ExTratamentoExcecoes.Entities
 {
     internal class Reservation
     {
         int RoomNumber { get; set; }
-        DateTime Checkin { get; set; }
-        DateTime Checkout { get; set; }
+        DateTime CheckIn { get; set; }
+        DateTime CheckOut { get; set; }
+
+        public Reservation()
+        {
+        }
 
         public Reservation(int roomNumber, DateTime checkin , DateTime checkout)
         {
@@ -20,13 +19,13 @@ namespace ExTratamentoExcecoes.Entities
                 throw new DomainException("Check-out date must be after check-in date");
             }
             RoomNumber = roomNumber;
-            Checkin = checkin;
-            Checkout = checkout;
+            CheckIn = checkin;
+            CheckOut = checkout;
         }
 
         public int Duration()
         {
-            TimeSpan duration = Checkout.Subtract(Checkin);
+            TimeSpan duration = CheckOut.Subtract(CheckIn);
             return (int)duration.TotalDays;
         }
 
@@ -40,8 +39,21 @@ namespace ExTratamentoExcecoes.Entities
             {
                 throw new DomainException("Check-out date must be after check-in date");
             }
-            Checkin = checkin;
-            Checkout = checkout;
+            CheckIn = checkin;
+            CheckOut = checkout;
+        }
+
+        public override string ToString()
+        {
+            return "Room "
+                + RoomNumber
+                + ", check-in: "
+                + CheckIn.ToString("dd/MM/yyyy")
+                + ", check-out: "
+                + CheckOut.ToString("dd/MM/yyyy")
+                + ", "
+                + Duration()
+                + " nights";
         }
     }
 }
