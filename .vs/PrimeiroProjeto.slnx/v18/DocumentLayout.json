@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{5AA15120-D02C-4A4F-845D-411DE9AC1A2D}|ExTratamentoExcecoes\\ExTratamentoExcecoes.csproj|c:\\projetos\\c#\\curso-poo\\extratamentoexcecoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AA15120-D02C-4A4F-845D-411DE9AC1A2D}|ExTratamentoExcecoes\\ExTratamentoExcecoes.csproj|solutionrelative:extratamentoexcecoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA15120-D02C-4A4F-845D-411DE9AC1A2D}|ExTratamentoExcecoes\\ExTratamentoExcecoes.csproj|c:\\projetos\\c#\\curso-poo\\extratamentoexcecoes\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA15120-D02C-4A4F-845D-411DE9AC1A2D}|ExTratamentoExcecoes\\ExTratamentoExcecoes.csproj|solutionrelative:extratamentoexcecoes\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA15120-D02C-4A4F-845D-411DE9AC1A2D}|ExTratamentoExcecoes\\ExTratamentoExcecoes.csproj|C:\\Projetos\\C#\\curso-poo\\extratamentoexcecoes\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA15120-D02C-4A4F-845D-411DE9AC1A2D}|ExTratamentoExcecoes\\ExTratamentoExcecoes.csproj|solutionrelative:extratamentoexcecoes\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Projetos\\C#\\curso-poo\\ExTratamentoExcecoes\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "ExTratamentoExcecoes\\Entities\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Projetos\\C#\\curso-poo\\ExTratamentoExcecoes\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "ExTratamentoExcecoes\\Entities\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T12:12:17.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Projetos\\C#\\curso-poo\\ExTratamentoExcecoes\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "ExTratamentoExcecoes\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\Projetos\\C#\\curso-poo\\ExTratamentoExcecoes\\Entities\\Reservation.cs",
+              "RelativeToolTip": "ExTratamentoExcecoes\\Entities\\Reservation.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T18:44:43.635Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +62,7 @@
               "RelativeDocumentMoniker": "ExTratamentoExcecoes\\Program.cs",
               "ToolTip": "C:\\Projetos\\C#\\curso-poo\\ExTratamentoExcecoes\\Program.cs",
               "RelativeToolTip": "ExTratamentoExcecoes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T18:40:07.722Z",
               "EditorCaption": ""

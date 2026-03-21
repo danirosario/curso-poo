@@ -1,4 +1,5 @@
 ﻿using System;
+using ExTratamentoExcecoes.Entities.Exceptions;
 
 namespace ExTratamentoExcecoes.Entities
 {
