@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ExTratamentoExcecoes.Entities.Exceptions
 {
-    internal class DomainException : Exception
+    internal class DomainException : ApplicationException
     {
         public DomainException() { }
 
