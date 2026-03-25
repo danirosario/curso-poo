@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Arquivos/Arquivos.csproj" Id="98ea6cb2-110b-4585-99b9-67442801fed0" />
   <Project Path="Aula06/Aula06.csproj" Id="0915913d-759d-4417-9142-e8da8bf5f777" />
   <Project Path="Composicao/Composicao.csproj" Id="b8be6dd0-9e73-4c06-98a4-8c67c057bcee" />
   <Project Path="ContaBancaria/ContaBancaria.csproj" Id="1e82e665-e7c1-4cf8-a297-21df47ccac60" />
