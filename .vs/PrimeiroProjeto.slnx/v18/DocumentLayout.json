@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Projetos\\C#\\curso-poo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98EA6CB2-110B-4585-99B9-67442801FED0}|Arquivos\\Arquivos.csproj|c:\\projetos\\c#\\curso-poo\\arquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98EA6CB2-110B-4585-99B9-67442801FED0}|Arquivos\\Arquivos.csproj|solutionrelative:arquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57E33729-E9E0-4D96-BB31-1C1DCB8F51AB}|Interface\\Interface.csproj|c:\\projetos\\c#\\curso-poo\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E33729-E9E0-4D96-BB31-1C1DCB8F51AB}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projetos\\C#\\curso-poo\\Arquivos\\Program.cs",
-              "RelativeDocumentMoniker": "Arquivos\\Program.cs",
-              "ToolTip": "C:\\Projetos\\C#\\curso-poo\\Arquivos\\Program.cs",
-              "RelativeToolTip": "Arquivos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Projetos\\C#\\curso-poo\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\Program.cs",
+              "ToolTip": "C:\\Projetos\\C#\\curso-poo\\Interface\\Program.cs",
+              "RelativeToolTip": "Interface\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T23:47:00.88Z",
+              "WhenOpened": "2026-03-30T23:34:23.068Z",
               "EditorCaption": ""
             }
           ]
