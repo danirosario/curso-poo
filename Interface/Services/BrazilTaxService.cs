@@ -1,6 +1,6 @@
 ﻿namespace Interface.Services
 {
-    internal class BrazilTaxService
+    internal class BrazilTaxService : ITaxService // This class implements the ITaxService interface, providing a specific tax calculation for Brazil.
     {
         public double Tax(double amount)
         {

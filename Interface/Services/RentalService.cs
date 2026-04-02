@@ -3,31 +3,39 @@ using Interface.Entities;
 
 namespace Interface.Services
 {
-    internal class RentalService
+    class RentalService
     {
-        public double PricePerHour { get; private set; }
-        public double PricePerday { get; private set; }
 
-        public RentalService(double pricePerHour, double pricePerday)
+        public double PricePerHour { get; private set; }
+        public double PricePerDay { get; private set; }
+
+        private ITaxService _taxService;
+
+        public RentalService(double pricePerHour, double pricePerDay, ITaxService taxService)
         {
             PricePerHour = pricePerHour;
-            PricePerday = pricePerday;
-        }   
+            PricePerDay = pricePerDay;
+            _taxService = taxService;
+        }
 
-        public Invoice ProcessInvoice(CarRental carRental)
+        public void ProcessInvoice(CarRental carRental)
         {
-            double basicPayment = 0.0;
+
             TimeSpan duration = carRental.Finish.Subtract(carRental.Start);
+
+            double basicPayment = 0.0;
             if (duration.TotalHours <= 12.0)
             {
                 basicPayment = PricePerHour * Math.Ceiling(duration.TotalHours);
             }
             else
             {
-                basicPayment = PricePerday * Math.Ceiling(duration.TotalDays);
+                basicPayment = PricePerDay * Math.Ceiling(duration.TotalDays);
             }
-            double tax = new BrazilTaxService().Tax(basicPayment);
-            return new Invoice(basicPayment, tax);
+
+            double tax = _taxService.Tax(basicPayment);
+
+            carRental.Invoice = new Invoice(basicPayment, tax);
         }
     }
 }
