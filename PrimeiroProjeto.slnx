@@ -9,6 +9,7 @@
   <Project Path="ExercicioFixacao1/ExercicioFixacao1.csproj" Id="218e1899-2265-4185-b73f-213a9ace7765" />
   <Project Path="ExercicioFixacao2/ExercicioFixacao2.csproj" Id="306f0238-ab68-4027-80c0-5f9741610bf1" />
   <Project Path="ExercicioMembrosEstaticos/ExercicioMembrosEstaticos.csproj" Id="11ff8a99-a1f9-422c-888b-a98fe7ea8a01" />
+  <Project Path="ExFixInterface/ExFixInterface.csproj" Id="9811bcd1-746a-4b40-909c-0013ec7164d4" />
   <Project Path="ExFixVetor/ExFixVetor.csproj" Id="033686f6-979e-4dad-ae7f-6b5f176e994d" />
   <Project Path="ExTratamentoExcecoes/ExTratamentoExcecoes.csproj" Id="5aa15120-d02c-4a4f-845d-411de9ac1a2d" />
   <Project Path="Heranca/Heranca.csproj" Id="987b634c-ec01-4bf2-bf9f-e5438e2bec49" />
